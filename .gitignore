@@ -3,11 +3,7 @@
 *.onnx
 *.pth
 
-# Video files
-videos/
-*.mp4
-*.avi
-*.mov
+
 
 # Python
 __pycache__/
